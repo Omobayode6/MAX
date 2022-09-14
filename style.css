@@ -410,7 +410,7 @@ footer{
 }
 
 /* Responsiveness (Mobile View) */
-@media (max-width:800px){
+@media (max-width:920px){
   /* header */
   .toggle-button{
     display: flex;
